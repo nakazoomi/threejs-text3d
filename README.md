@@ -1,4 +1,4 @@
-# Three JS Scene
+# Three.js Scene
 
 ## 3D Text Example
 
